@@ -1,6 +1,6 @@
 # Belge Sağlığı Asistanı
 
-# Notebook Çalışma Eskizleri
+##Notebook Çalışma Eskizleri
 
 Bu klasörde projemizin **çalışma eskizleri** yer almaktadır.  
 Tüm notebook’lar `notebooks/` klasörünün içindedir:

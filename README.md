@@ -1,5 +1,10 @@
 # Belge Sağlığı Asistanı
 
+# Notebook Çalışma Eskizleri
+
+Bu klasörde projemizin **çalışma eskizleri** yer almaktadır.  
+Tüm notebook’lar `notebooks/` klasörünün içindedir:
+
 **Akbank Derin Öğrenme Bootcamp - Final Projesi**
 
 Bu proje, bir finansal belgenin (fatura, dekont vb.) fiziksel durumunu, derin öğrenme yöntemleri kullanarak "Sağlam" veya "Hasarlı" olarak sınıflandırmak amacıyla geliştirilmiştir. Proje, sadece bir sınıflandırma problemi çözmekle kalmayıp, aynı zamanda pratik bir iş problemine çözüm üretme ve bu çözüm için gereken veri setini sıfırdan oluşturma yeteneklerini sergilemeyi hedefler.

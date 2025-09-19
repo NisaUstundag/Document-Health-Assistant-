@@ -46,7 +46,7 @@ Geliştirilen özel fonksiyonlar ile belgelere üç temel hasar türü uygulanm�
 
 Eğitim süreci sonunda elde edilen performans grafikleri aşağıdadır:
 
-![Model Performans Grafikleri](image_03e9ae.png)
+![Model Performans Grafikleri]("D:\Desktop\Ekran görüntüsü 2025-09-19 032701.png")
 
 * **Eğitim Başarımı (`Training Accuracy`):** Model, eğitim verisetini **~%95**'in üzerinde bir başarıyla ezberleyerek öğrenme potansiyelini kanıtlamıştır.
 * **Doğrulama Başarımı (`Validation Accuracy`):** Model, daha önce görmediği test verilerinde **~%50-60** bandında bir başarı göstermiştir.
@@ -57,7 +57,7 @@ Bu iki sonuç arasındaki fark, modelin **aşırı öğrendiğini (overfitting)*
 
 Eğitilmiş modelin, daha önce görmediği hasarlı bir resmi doğru bir şekilde "HASARLI" olarak sınıflandırdığı görülmüştür.
 
-![Tek Resim Testi](image_046932.jpg)
+![Tek Resim Testi]("D:\Desktop\1.png")
 
 ---
 
